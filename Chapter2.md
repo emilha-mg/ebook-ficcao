@@ -1,4 +1,6 @@
-Capítulo 2 - Androides
+Capítulo 2
+
+            ANDROIDES
 
  Na ficção científica, os androides são personagens ou seres artificiais que possuem características e aparência humanas. Eles são frequentemente retratados como robôs ou inteligências artificiais avançadas que se assemelham aos seres humanos em termos de aparência, comportamento e, em alguns casos, até mesmo em emoções e consciência.
 
